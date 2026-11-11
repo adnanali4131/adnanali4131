@@ -33,3 +33,5 @@ I am available for freelance and contract projects with teams in the USA, Europe
 [Full stack development](https://www.adnanali.tech/hire/full-stack-developer/) · [SaaS MVP development](https://www.adnanali.tech/hire/saas-mvp-developer/) · [AI/LLM integrations](https://www.adnanali.tech/hire/ai-integration-developer/)
 
 [Share your project brief](https://www.adnanali.tech/#contact) — email, call and WhatsApp contact options are available on the portfolio.
+
+Professional profiles: [LinkedIn](https://www.linkedin.com/in/adnan-ali-b75089247/) · [DEV Community](https://dev.to/adnanali4131) · [Peerlist](https://peerlist.io/adnanali4131)
