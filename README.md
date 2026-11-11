@@ -18,12 +18,18 @@ For a new product, I can help connect the frontend, backend, database, authentic
 
 Each case study identifies its actual stack and my contribution.
 
-## Selected work
+## Portfolio projects
 
 - [Cheezious](https://www.adnanali.tech/projects/cheezious/) — ordering interfaces, branch dashboards, backend APIs, POS and kitchen integrations.
 - [Carswitch](https://www.adnanali.tech/projects/carswitch/) — marketplace features, car search and Arabic/English localization.
 - [LegacySuite](https://www.adnanali.tech/projects/legacysuite/) — branded SaaS dashboards, account permissions and Stripe subscriptions.
 - [LlamaEdu](https://www.adnanali.tech/projects/llamaedu/) — OpenAI-powered lesson planning with more than 50 assistants.
+- [Numastays](https://www.adnanali.tech/projects/numastays/) — rental search, availability, reservations, Stripe payments and owner dashboards.
+- [CheckView](https://www.adnanali.tech/projects/checkview/) — browser-based website QA, monitoring dashboards and failure-run review.
+- [CronShift](https://www.adnanali.tech/projects/cronshift/) — healthcare workforce scheduling, staffing dashboards, agency integrations and reporting.
+- [Paige by Merchynt](https://www.adnanali.tech/projects/paige-merchynt/) — local-marketing dashboards, business-profile workflows and OpenAI integrations.
+- [Chom Chom](https://www.adnanali.tech/projects/chom-chom/) — children's activity interfaces, focus games, mood tracking, meditation and journaling.
+- [App.woooo.world](https://www.adnanali.tech/projects/woooo-world/) — frontend messaging and video-call features, with text-to-speech in Jitsi, within a larger team.
 - [OrbitAgent](https://www.adnanali.tech/projects/orbitagent/) — my personal Next.js/FastAPI project connecting Claude and Gemini to GitHub, Linear and Slack, with streaming responses and reviewed write actions.
 
 ## Work together
